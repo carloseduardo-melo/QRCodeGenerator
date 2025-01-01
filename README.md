@@ -58,7 +58,7 @@ pip install qrcode[pil] pillow
 
 **Configuração no Script:**
 ```python
-url = "https://ousadiaintima.com.br/produto/brinde-kit-surpresa/"
+url = "https://ousadiaintima.com.br/"
 cor_frente = "black"
 cor_fundo = "white"
 nome_arquivo = "meu_qrcode.png"
